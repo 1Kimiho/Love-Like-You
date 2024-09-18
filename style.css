@@ -19,11 +19,12 @@
 }#p1{
     padding-left: 60px;
 }#c1{
+    font-family: segoe print;
     background-image: url(Love_Like_You.webp);
-    height: 400px;
+    height: 520px;
     font-size: 25px;
     padding-left: 10px;
-    padding-top: 70px;
+    padding-top: 60px;
     padding-bottom: 10px;
 }.c{
     font-size: 25px;
@@ -35,11 +36,12 @@
     font-family: "Dancing Script", system-ui;
     font-size: 40px;
 }#c2{
+    font-family: segoe print;
     background-image: url(Love_Like_You.webp);
-    height: 760px;
+    height: 1000px;
     font-size: 25px;
     padding-left: 10px;
-    padding-top: 100px;
+    padding-top: 90px;
     padding-bottom: 10px;
 }#c3{
     padding-bottom: 20px;
