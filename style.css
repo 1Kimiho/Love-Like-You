@@ -6,32 +6,41 @@
     margin: 0%;
     box-sizing: border-box;
 }header{
-    background-color: rgb(224, 224, 224);
+    background-color: rgb(255, 155, 155);
     color: red;
     font-family: "Playwrite CU", cursive;
     padding-left: 500px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 25px;
+    padding-bottom: 30px;
 }h1{
     font-size: 50px;
 }main{
     background-color: rgb(255, 200, 200);
 }#p1{
     padding-left: 60px;
-}.c1{
+}#c1{
     background-image: url(Love_Like_You.webp);
+    height: 400px;
     font-size: 25px;
     padding-left: 10px;
-    padding-top: 10px;
+    padding-top: 70px;
     padding-bottom: 10px;
 }.c{
-    margin-bottom: 20px;
     font-size: 25px;
     padding-left: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color: rgb(255, 145, 145);
+    background-color: rgb(255, 200, 200);
     color: rgb(255, 34, 34);
     font-family: "Dancing Script", system-ui;
     font-size: 40px;
+}#c2{
+    background-image: url(Love_Like_You.webp);
+    height: 760px;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}#c3{
+    padding-bottom: 20px;
 }
